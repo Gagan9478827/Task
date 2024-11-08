@@ -1,0 +1,19 @@
+.Form{
+    display: grid;
+}
+
+.Label{
+    color: red;
+    margin-top: 10px;
+}
+
+.input{
+    margin-top: 10px;
+}
+
+.button{
+    margin-top: 15px;
+    height: 25px;
+    width: 65px;
+    border-radius: 4px;
+}
